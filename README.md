@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/AnyelaGil/IMG/blob/main/kk.jpg)
+![](https://github.com/AnyelaGil/IMG/blob/main/Banner-git.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
