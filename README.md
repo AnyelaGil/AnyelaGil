@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://github.com/AnyelaGil/IMG/blob/main/Banner-git.jpg)
 
 - 🔭 I’m currently working on ...
