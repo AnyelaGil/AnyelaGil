@@ -1,4 +1,4 @@
-![](https://github.com/AnyelaGil/IMG/blob/main/Banner-git.jpg)
+![](https://github.com/AnyelaGil/IMG/blob/main/Banner-git-.jpg)
 <p>Welcome to my creative corner in the world of web development. I'm passionate about creation and design, always striving for perfection in every detail. Every day, I seek to learn something new and apply it to my projects, fueling my curiosity and keeping me in constant evolution.</p>
 <h2 ALIGN="center">About Me 🚀</h2>
 <p>💡 Unlimited Creativity: My mind is always bubbling with innovative ideas. I enjoy exploring new perspectives and approaches to problem-solving, creating unique and engaging experiences.
